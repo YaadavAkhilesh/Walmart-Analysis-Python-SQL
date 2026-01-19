@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/walmart_dashboard.png" alt="Walmart Sales Power BI Dashboard" width="900">
-</p>
-
-<p align="center"><b>Interactive Power BI Dashboard showcasing Walmart Sales Insights</b></p>
-
 # Walmart Sales Analysis using Python, SQL & Power BI
 
 ---
@@ -22,6 +16,37 @@ The goal of this project is to demonstrate:
 
 ---
 
+## 🛠️ Tools & Technologies Used
+
+- **Pandas**
+- **MySQL**
+- **SQL** (CTEs, Window Functions, Aggregate Functions)
+- **Date & Time Functions**
+- **Power BI** (Dashboard Creation & Data Visualization)
+
+---
+
+## 📊 Power BI Dashboard
+
+<p align="center">
+  <img src="assets/walmart_dashboard.png" alt="Walmart Sales Power BI Dashboard" width="850">
+</p>
+
+### Dashboard Highlights
+
+The interactive dashboard provides insights such as:
+
+- **Total Revenue, Transactions, and Items Sold**
+- **Revenue distribution by product category**
+- **Payment method share**
+- **Sales by shift (Morning, Afternoon, Evening)**
+- **Top-rated product categories by branch**
+- **Branch, City, and Category level filtering**
+
+The dashboard is designed using a **clean light theme**, focused on clarity, readability, and business usability.
+
+---
+
 ## 🗂️ Dataset Description
 
 The dataset contains Walmart transactional sales data with the following key fields:
@@ -37,31 +62,6 @@ The dataset contains Walmart transactional sales data with the following key fie
 - Unit Price  
 - Profit Margin  
 - Total Amount  
-
----
-
-## 🛠️ Tools & Technologies Used
-
-- **Pandas**
-- **MySQL**
-- **SQL** (CTEs, Window Functions, Aggregate Functions)
-- **Date & Time Functions**
-- **Power BI** (Dashboard Creation & Data Visualization)
-
----
-
-## 📊 Power BI Dashboard Highlights
-
-The interactive dashboard provides insights such as:
-
-- **Total Revenue, Transactions, and Items Sold**
-- **Revenue distribution by product category**
-- **Payment method share**
-- **Sales by shift (Morning, Afternoon, Evening)**
-- **Top-rated product categories by branch**
-- **Branch, City, and Category level filtering**
-
-The dashboard is designed using a **clean light theme**, focused on clarity, readability, and business usability.
 
 ---
 
